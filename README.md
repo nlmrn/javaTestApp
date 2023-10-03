@@ -1,4 +1,2 @@
 # javaTestApp
-An android app created for school purposes.
-kunware masipag
-crush ko si 
+An android app created for school purposes. Si niel leader
