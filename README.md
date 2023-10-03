@@ -1,2 +1,2 @@
 # javaTestApp
-An android app created for school purposes. Si niel leader
+An android app created for school purpose. ayoko maging leader
